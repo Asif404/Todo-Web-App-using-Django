@@ -1,6 +1,6 @@
 # Todo_Web_App_using_Django_with_Chrome_extension
 
-This ToDo app makes use of [AdminLTE](https://adminlte.io/themes/dev/AdminLTE/index.html) template also implemnts a chrome extension to easly access webapp if you are hosting. If you Add To Home screen in phones can be used like an app. 
+This ToDo app makes use of [AdminLTE](https://adminlte.io/) template also implemnts a chrome extension to easly access webapp if you are hosting. If you Add To Home screen in phones can be used like an app. 
 ## Screenshot
 ![Screenshot from 2021-09-22 18-37-31](https://user-images.githubusercontent.com/33574841/134349244-5a7bee02-37af-4fde-9a75-6bcec63f46cc.png)
 
